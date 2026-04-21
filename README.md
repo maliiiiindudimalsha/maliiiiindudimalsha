@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=280&section=header&text=Hi,%20I'm%20Malindu&fontSize=80&animation=twinkling&fontAlignY=35" />
 
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergrad+@+ICBT;Full-Stack+Web+%26+Mobile+Developer;Founder+of+Wave+Codes+Solutions;Building+Next-Level+Digital+Experiences" alt="Typing SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergrad+@+ICBT;Full-Stack+Web+%26+Mobile+Developer;Building+Next-Level+Digital+Experiences" alt="Typing SVG" /></a>
 </div>
 
 ---
